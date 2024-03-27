@@ -3,6 +3,5 @@ Here we provide scripts used to analyse single-cell RNA-sequencing data of preci
 
 ## Manuscript and contact information
 Precise engineering of chimeric antigen receptor expression levels to understand and control T cell identity and function
-
-## Corresponding authors 
+### Corresponding authors 
 Tatjana Sauka-Spengler (tatjana.sauka-spengler@imm.ox.ac.uk) and Yale S. Michaels (yale.michaels@umanitoba.ca)
